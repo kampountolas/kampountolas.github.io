@@ -6,7 +6,9 @@ Well. Finally got around to putting this old website together. Neat thing about 
 
 See [here](https://learn.cloudcannon.com/jekyll/install-jekyll-on-os-x/) how to install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](http://jekyllrb.com) on Mac. 
 
-$$x+y = z$$
+$$
+x+y = z
+$$
 
 Feel free to fork!
 
