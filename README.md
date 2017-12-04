@@ -8,27 +8,4 @@ See [here](https://learn.cloudcannon.com/jekyll/install-jekyll-on-os-x/) how to 
 
 Feel free to fork!
 
-## Installation
-
-1. Clone the repository and enter its directory
-   
-   ```
-   git clone https://github.com/kampountolas/kampountolas.github.io.git kampountolas.github.io
-   cd kampountolas.github.io
-   ```
-
-2. Install the dependencies
-
-   ```
-   npm start
-   ```
-
-3. Run a server, generate the site and watch for changes
-   
-   ```
-   npm start
-   ```
-
-4. Navigate to [http://localhost:4100/](http://localhost:4100/).
-
 /K
