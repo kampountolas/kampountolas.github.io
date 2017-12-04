@@ -13,13 +13,6 @@
 			{% endif %}
 		</head>
 		<body>
-			{% if jekyll.environment == 'stage' %}
-  <p class="banner">
-    <a href="https://kampountolas.github.io/">
-      This is a development version of the site. Click here to see the live content.
-    </a>
-  </p>
-{% endif %}
 			<nav>
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
@@ -43,5 +36,10 @@
 				<li>Page generated: {{ site.time }}.</li>
 				</ul>
 			</footer>
+			{% if jekyll.environment == 'stage' %}
+			  <p class="banner">
+			    	<a href="https://kampountolas.github.io/">This is a development version of the live site.</a>
+			  </p>
+			{% endif %}
 		</body>
 	</html>
