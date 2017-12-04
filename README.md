@@ -17,18 +17,18 @@ Feel free to fork!
    cd kampountolas.github.io
    ```
 
-1. Install the dependencies
+2. Install the dependencies
 
-  ```
-  npm start
-  ```
+   ```
+   npm start
+   ```
 
-1. Run a server, generate the site and watch for changes
+3. Run a server, generate the site and watch for changes
    
    ```
    npm start
    ```
 
-1. Navigate to [http://localhost:4100/](http://localhost:4100/).
+4. Navigate to [http://localhost:4100/](http://localhost:4100/).
 
 /K
